@@ -1,7 +1,7 @@
 import streamlit as st
 st.title(':red[Abayomi\'s BMI calculator]')
 from PIL import Image
-img = st.image("C:\\Users\VP\Pictures\\baboon-yankari-2-042512_thumb.jpg")
+img = st.image("baboon-yankari-2-042512_thumb.jpg")
 
 st.text('BMI is a measurement of a person\'s leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.\nIt is widely used as a general indicator of whether a person has a healthy body weight for their height.'
         '\nSpecifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.\nThese ranges of BMI vary based on factors.')
